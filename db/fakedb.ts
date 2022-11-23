@@ -19,4 +19,14 @@ export const PropertyDb: PropertySearchResult[] = [
     additional_label: 'WRITE ANYTHING HERE',
     free_cancellation: true,
   },
+   {
+    name: 'KeWie',
+    image: '/biden.jpg',
+    score: 10.0,
+    price: 200,
+    discount: 0,
+    nbr_of_reviews: 10,
+    additional_label: 'Come on',
+    free_cancellation: true,
+  },
 ];
